@@ -34,7 +34,7 @@
                     
     
 
-
+let studentscore=1
 function score(score){
     switch (true) {
         case (score >= 90 && score <= 100):
@@ -50,5 +50,6 @@ function score(score){
       }
     }
     score();
+    console.log(score)
     
 
