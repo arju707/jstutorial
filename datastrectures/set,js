@@ -1,0 +1,17 @@
+let numbers= new Set([1,2,3,22,4,3]);
+console.log(numbers) ;
+console.log("displaying the sets")//for displaying the set
+numbers.add(10);//adding element to the set
+console.log("added 10 to the set");
+
+numbers.delete(2);//delete an element from the set
+console.log("deleted element from the set");
+
+console.log(numbers)
+console.log("checked the number");
+
+console.log(numbers.has(10));//check a number inside the set
+
+
+
+console.log(numbers.size)
