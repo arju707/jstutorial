@@ -1,0 +1,6 @@
+let score=(...mark)=>{
+
+    let total=0;
+    
+
+}
