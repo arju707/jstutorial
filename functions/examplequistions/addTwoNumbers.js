@@ -1,7 +1,10 @@
-function add(a,b){
-    console.log(a,b);
-    return a+b;
-}
+// function add(a,b){
+//     console.log(a,b);
+//     return a+b;
+// }
 
-console.log(add(4,6));
+// console.log(add(4,6));
+
+
+
 
