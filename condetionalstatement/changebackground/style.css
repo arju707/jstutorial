@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: black;
+
+
+}
+.container{
+    width: 500px;
+    background-color: red ;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.change{
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
